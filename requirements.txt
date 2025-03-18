@@ -4,9 +4,11 @@ numpy
 pymongo
 certifi
 pymongo[srv]
+mlflow
 scikit-learn
 dill
 pyaml
+
 
 
 ##-e .
